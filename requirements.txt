@@ -3,3 +3,4 @@ pytesseract
 Pillow
 requests
 google-generativeai
+deep-translator
