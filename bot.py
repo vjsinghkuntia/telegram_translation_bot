@@ -10,7 +10,7 @@ from deep_translator import GoogleTranslator
 # Tesseract path (Windows)
 pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
-TOKEN = "8619233568:AAFdDa8T16q-2MPouOA8uYAWCyRch3FQJLg"
+TOKEN = "8619233568:AAFhVS348nBXOlbq945_ylH-Y0Pp7WflCzE"
 
 logging.basicConfig(level=logging.INFO)
 
